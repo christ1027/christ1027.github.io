@@ -49,7 +49,7 @@ hr {
   border-color: #ff0000;
 }
 .navbar .navbar-toggle .icon-bar {
-  background-color: #ff0000;
+  background-color: #d6ab65;
 }
 .navbar .navbar-brand {
   color: #ffffff;
@@ -71,7 +71,7 @@ hr {
 }
 /* 放照片 */
 .parallaxTop {
-  background-image: url("1.png");
+  background-image: url("2.jpg");
   min-height: 100vh;
 }
 
@@ -151,7 +151,7 @@ hr {
 }
 
 .phoneContact {
-  background: #ff0000;
+  background: #93b0ed;
   text-align: center;
   color: white;
   min-height: 200px;
