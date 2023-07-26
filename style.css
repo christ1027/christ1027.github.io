@@ -12,7 +12,7 @@ body {
 
 hr {
   width: 70px;
-  border-color: #ff0000;
+  border-color: #e27474;
   border-width: 2px;
   height: 2px;
 }
@@ -201,7 +201,7 @@ hr {
 }
 
 #copyright {
-  background: #ff0000;
+  background: #e9a018;
   min-height: 125px;
   text-align: center;
   color: white;
